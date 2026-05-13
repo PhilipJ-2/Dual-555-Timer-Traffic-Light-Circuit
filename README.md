@@ -5,7 +5,7 @@
 ![Breadboard](https://img.shields.io/badge/Build-Breadboard-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻--
 
 ## 📖 Overview
 
@@ -15,7 +15,7 @@ The project was hand-built on a breadboard using a schematic-based design workfl
 
 The original hand-drawn schematic used during development is included in the repository documentation.  [oai_citation:0‡Note Dec 2, 2025 (3).pdf](sediment://file_00000000af4c71f5b38fbf7101c64b9b)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ✨ Project Features
 
@@ -30,7 +30,7 @@ The original hand-drawn schematic used during development is included in the rep
 - Real-time LED state cycling
 - Basic traffic light simulation
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🛠 Hardware Used
 
@@ -47,7 +47,7 @@ The original hand-drawn schematic used during development is included in the rep
 - Jumper wires
 - 5–9V power supply
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🔊 Circuit Workflow
 
@@ -59,7 +59,7 @@ Power Supply
 → Traffic Light Simulation
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🧠 Engineering Concepts Demonstrated
 
@@ -74,7 +74,7 @@ Power Supply
 - Schematic Interpretation
 - Hardware Implementation
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📂 Repository Structure
 
@@ -89,7 +89,7 @@ Dual-555-Timer-Traffic-Light-Circuit/
 └── README.md
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ⚙️ Development Stages
 
@@ -105,7 +105,7 @@ Verified LED timing behavior and adjusted component placement and wiring connect
 ### Final System
 Completed working dual-555 traffic light simulator with automatic LED sequencing behavior.
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📊 Circuit & Timing Analysis
 
@@ -117,7 +117,7 @@ The project demonstrates:
 - Analog timing control
 - Multi-stage timer interaction
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📷 Project Photos
 
@@ -130,13 +130,13 @@ The project demonstrates:
 ### Final Traffic Light Operation
 ![Traffic Light Output](Images/final_output.jpg)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🎥 Demo Video
 
 [Watch Project Demo](Videos/traffic_light_demo.mp4)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🚀 Future Improvements
 
@@ -149,7 +149,7 @@ The project demonstrates:
 - Improve timing precision
 - Add sensor-triggered light control
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 👨‍💻 Author
 
